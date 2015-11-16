@@ -5,6 +5,11 @@ use warnings;
 
 my $file = 'file.txt';
 
+
+# read <
+# write > 
+# append >>
+
 open my $fh, '<', $file
   or die "Can't open file \"$file\": $!";
 
