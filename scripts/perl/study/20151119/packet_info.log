@@ -1,0 +1,11 @@
+10:11:10
+packet: 100
+loss: 3
+
+10:11:15
+packet: 120
+loss: 5
+
+10:11:20
+packet: 90
+loss: 2
