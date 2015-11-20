@@ -1,0 +1,7 @@
+time    URL     respons_time    size
+10:10   http://a.com    1.4     12
+10:10   http://b.com    2.5     56
+10:11   http://v.com    9.8     34
+10:11   http://a.com    1.2     67
+10:11   http://b.com    4.5     12
+10:11   http://b.com    3.2     98
