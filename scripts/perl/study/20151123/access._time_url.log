@@ -1,0 +1,13 @@
+time    URL
+10:12:10        http://www.a.com
+10:12:15        http://www.b.com
+10:12:19        http://www.c.com
+10:13:09        http://www.c.com
+10:13:13        http://www.a.com
+10:13:45        http://www.c.com
+10:15:01        http://www.c.com
+10:15:05        http://www.c.com
+10:15:30        http://www.a.com
+10:15:45        http://www.c.com
+10:15:50        http://www.a.com
+10:15:55        http://www.c.com
